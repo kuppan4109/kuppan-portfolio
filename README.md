@@ -1,23 +1,65 @@
-# kuppan-portfolio
-My personal portfolio showcasing AI &amp; ML projects, data engineering pipelines, and MLOps solutions — built with HTML, CSS, and JavaScript.
+# 🧠 Kuppan-Portfolio
 
-# 💼 Personal Portfolio Website
+My personal portfolio showcasing AI & ML projects, data engineering pipelines, and MLOps solutions — built with HTML, CSS, and JavaScript.
 
-This is my personal portfolio to showcase a curated collection of real-world projects in:
-- 🤖 AI & ML Solutions
-- 🔄 Data Engineering & Pipelines
-- ⚙️ MLOps & Automation
+---
 
-Built using **HTML**, **CSS**, and **JavaScript**, with responsive design and smooth filtering by category.
+## 💼 Personal Portfolio Website
+
+This site serves as a hub to highlight production-grade and experimental work across:
+
+- 🤖 **AI & ML Solutions**
+- 🔄 **Data Engineering & Pipelines**
+- ⚙️ **MLOps & Automation**
+
+Designed with a mobile-first, accessible layout using semantic HTML, clean CSS, and modular JavaScript.
+
+---
 
 ## 🚀 Features
-- Project categorization and filtering (AI/ML, MLOps, Data Engineering)
-- Fully responsive and accessible layout
-- Smooth animations and dark-themed aesthetic
-- Optimized project thumbnails and live links
 
-## 🌐 Live Demo
-[Visit Portfolio](https://your-portfolio-url.com)
+- 🔍 Project categorization and filtering (AI/ML, MLOps, Data Engineering)
+- 📱 Fully responsive and accessible layout
+- 🎨 Smooth animations and dark-themed UI
+- 🖼️ Optimized thumbnails with project links
+- 🧭 Simple and intuitive navigation
+- 🌐 Live hosted demo *(add your link here)*
+
+---
 
 ## 📁 Folder Structure
 
+```
+KUPPAN-PORTFOLIO/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css           # Main stylesheet
+│   ├── icons/                  # Icons used in the UI
+│   ├── images/                 # Project images & logos
+│   └── js/
+│       └── script.js           # JavaScript logic for interactivity
+│
+├── index.html                  # Main portfolio webpage
+├── README.md                   # Project documentation (you're reading it!)
+```
+
+# Tech Stack
+
+- HTML5
+
+- CSS3 (Flexbox, Grid)
+
+- JavaScript (DOM manipulation, filtering)
+
+- Visual Studio Code for Development
+
+# 🧪 Getting Started
+    1. Clone the repository
+        git clone https://github.com/yourusername/Kuppan-Portfolio.git
+    2. Navigate to the project folder
+        cd Kuppan-Portfolio
+    3. Open index.html in your browser Or use VS Code Live Server for local preview
+
+# 📬 Contact
+For inquiries or collaborations: kuppan020399@outlook.com
