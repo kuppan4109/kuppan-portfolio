@@ -56,10 +56,13 @@ KUPPAN-PORTFOLIO/
 
 # 🧪 Getting Started
     1. Clone the repository
-        git clone https://github.com/yourusername/Kuppan-Portfolio.git
+        git clone https://github.com/kuppan4109/Kuppan-Portfolio.git
     2. Navigate to the project folder
         cd Kuppan-Portfolio
     3. Open index.html in your browser Or use VS Code Live Server for local preview
+# Live Demo
+
+Please visit the hosted site - https://kuppan4109.github.io/kuppan-portfolio/
 
 # 📬 Contact
 For inquiries or collaborations: kuppan020399@outlook.com
