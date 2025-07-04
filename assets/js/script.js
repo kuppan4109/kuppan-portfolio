@@ -157,3 +157,25 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+document.querySelectorAll('.open-certificate').forEach(function(item) {
+  item.addEventListener('click', function(e) {
+    e.preventDefault();
+    const imgSrc = this.getAttribute('data-image');
+    const title = this.getAttribute('data-title');
+    document.getElementById('modalImg').src = imgSrc;
+    document.getElementById('modalCaption').innerText = title;
+    document.getElementById('certificateModal').style.display = "block";
+  });
+});
+
+document.getElementById('modalClose').addEventListener('click', function() {
+  document.getElementById('certificateModal').style.display = "none";
+});
+
+window.addEventListener('click', function(e) {
+  const modal = document.getElementById('certificateModal');
+  if (e.target === modal) {
+    modal.style.display = "none";
+  }
+});
